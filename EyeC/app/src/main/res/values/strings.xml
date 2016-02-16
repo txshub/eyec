@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EyeC</string>
+    <string name="welcomeText">Welcome to I see.. You are located in our test venue</string>
+    <string name="searchingText">Searching...</string>
+    <string name="enteredPrefixText">"You have entered "</string>
+    <string name="youChoseText">"You chose option number "</string>
+</resources>
